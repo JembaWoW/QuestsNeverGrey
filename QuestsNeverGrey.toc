@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: |cff44bf44Quests Never Grey
+## Notes: Prevents quests in your log for every displaying as a "grey" quest.
+## Author: Jemba
+## Version: 1
+QuestsNeverGrey.lua
